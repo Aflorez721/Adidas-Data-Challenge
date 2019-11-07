@@ -1,0 +1,14 @@
+Super scale,Size in super scale,Values for primary dimension in mm,,,,
+B,1,1002,,,,
+KB,2,1011,,,,MALE
+MB,3,1092,,,,
+GB,4,1116,,,,
+TB,5,1200,,,,
+PB,6,1272,,,,
+,,,,,,
+B,1,900,,,,
+KB,2,912,,,,
+MB,3,992,,,,FEMALE
+GB,4,1004,,,,
+TB,5,1089,,,,
+PB,6,1160,,,,
